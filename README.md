@@ -1,12 +1,12 @@
 # bikerent
 ## Setup environment
 
-1. Buat lingkungan menggunakan Conda dengan Python versi 3.9:
+1. Setup environment menggunakan Conda dengan Python versi 3.9:
     ```bash
     conda create --name main-ds python=3.9
     ```
 
-2. Aktifkan lingkungan baru:
+2. Aktifkan new environment:
     ```bash
     conda activate main-ds
     ```
